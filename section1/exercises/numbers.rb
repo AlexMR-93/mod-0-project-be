@@ -7,10 +7,10 @@
 p 2 + 2
 
 # Write code that prints the result of 7 subtracted from 83:
-p #YOUR CODE HERE
+p "the result of 7 subtracted from 83 is #{7 - 83}"
 
 # Write code that prints the result of 6 multiplied by 53:
-# YOUR CODE HERE
+p "the result of 6 multiplied by 53 is #{6 * 53}"
 
 # Write code that prints the result of the modulo of 10 into 54:
-# YOUR CODE HERE
+p "the result of 10 into 54 is #{10 % 54}"
