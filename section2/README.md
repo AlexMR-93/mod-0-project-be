@@ -30,8 +30,22 @@ Read/watch one or both of the following:
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
-- In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+  1. new to me was the S.M.A.R.T. although it makes sense.i always bit of more than i could  chew. Hence, i would take me way longer to complete the task.also i would set unrealistic time frames to complete set task thus failing.
+  2. i have worked many different type of jobs and one skill i picked up was "use the tools you have around you", which means try to solve the issue with what you know first. try approaching the issue in a different angle or light using your prior knowledge. Then try referring back to your notes. if you are still stumped, ask a co-worker/ partner for help. if they cant figure it out reach out to the foremen/management.
+
+- In which ways do you currently demonstrate a Growth Mindset?
+
+  1. Knowing that if i give up now, i will never learn a new skill. I am always looking for a new challenge to stimulate me. i dont know that im a genius or anything like that but most jobs require the same mundane tasks everyday. i like to push my self more that average.
+
+- In which ways do you _not_?
+
+  1. time management has been very tough. i always set unrealistic goals and fail, finish the task but at a later time. time management is something that i will continue to work on and setting more realistic goals with "calandering" my tasks.
+
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+
+1. driving all sorts of heavy equipment vehicles. All operate different and are used for different tasks. i stated as a laborer but now im a heavy equipment trainer for the U.S Army base in Ft. irwin CA . i did not get all my experience in one place, in fact, i worked over 10 different warehouses, construction sites and military bases. Most machinery is not complex. the hard part is making sure your are being safe. when i first asked to be trained on a small forklift. i was so tense and afraid of hurting the people around me. i struggled with just driving straight. its not the same as a drivng a car. with practice and time i got the hang of it. 
+
+
 
 ## Part B: Conditionals
 
